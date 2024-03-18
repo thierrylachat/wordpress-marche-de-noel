@@ -3,7 +3,11 @@
 ## « Le marché de Noël »
 
 **Le contexte**
-*L’association des commerçants de votre ville a pour vocation de rendre le coeur de votre ville attractif. Parmi ses nombreuses missions, « le marché de Noël » reste sans nul doute, l’attraction phare. Il a lieu tous les ans du 1er au 25 décembre. Chaque année est l’occasion de refondre le site internet en faisant travailler de jeunes designers et développeurs qui ne manquent pas de folie, et d’imagination.
+
+*L’association des commerçants de votre ville a pour vocation de rendre le coeur de votre ville attractif. Parmi ses nombreuses missions, « le marché de Noël » reste sans nul doute, l’attraction phare. Il a lieu tous les ans du 1er au 25 décembre. 
+
+Chaque année est l’occasion de refondre le site internet en faisant travailler de jeunes designers et développeurs qui ne manquent pas de folie, et d’imagination.
+
 Afin de promouvoir le « marché de Noël » de cette année, la ville fait appel à vos talents pour réaliser un site vitrine sous Wordpress, selon le cahier des charges précisé plus bas. Vous devrez piloter l’ensemble du projet, depuis la phase de design UI/UX jusqu’à l’intégration et la mise en ligne du projet.*
 
 *Vous allez devoir choisir parmi l’une des villes suivantes pour la réalisation de votre site : Amiens, Strasbourg, Paris, Gstaad (Suisse), Rovaniemi (Laponie). Information que vous communiquerez à votre formateur. Vous avez carte blanche sur la charte graphique, et la répartition des rubriques, des événements et des contenus, tant qu’il y a cohérence avec le sujet.*
@@ -22,6 +26,7 @@ Afin de promouvoir le « marché de Noël » de cette année, la ville fait appe
  *Pour votre site, vous aurez besoin de photos ou de vidéos d’ambiance que vous pourrez puiser dans des banques de photos libres de droit (unsplash, pexels, etc.) et de photos des villes que vous puiserez sur leurs sites (la plupart ont une partie galerie et/ou médias). Pensez à toujours créditer l’auteur de chacune des photos (effectuez une recherche sur la meilleure façon de le faire).*
  
 **Phasing et méthodologie du projet**
+
 Le projet se découpe en phases :
  - Rédaction des contenus / collecte des ressources graphiques (photos, vidéos, icônes)
  - Wireframe du site et prototypage
@@ -32,6 +37,7 @@ Le projet se découpe en phases :
  - Mise en production du Wordpress sur un serveur distant (Planethoster)
 
 **Livrables**
+
 Vous devez fournir les fichiers ou ressources suivants :
 
  - Maquettes de 2 pages types (accueil, article, catégorie…) qui vous semblent pertinentes à présenter
